@@ -5,3 +5,5 @@ Here is a personal handbook based on the [OCA Oracle Database SQL Exam guide by 
 
 ## Contents
 
+1. [Oracle and SQL](1_oracle_and_sql.md)
+2. 
